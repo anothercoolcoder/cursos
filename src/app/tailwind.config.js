@@ -3,7 +3,7 @@ module.exports = {
   content: [
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
-  darkMode: 'media', // Detecta el tema del sistema automáticamente
+  darkMode: 'media',
   theme: {
     extend: {},
   },

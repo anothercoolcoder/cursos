@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Andres Nino",
   description: "Personal website of Andres Niño, a Systems Engineer passionate about software development, technology, and problem-solving. Explore his projects, skills, and contact information.",
+  icons:{
+    icon: "/favicon.ico"
+  }
 };
 
 export default function RootLayout({
