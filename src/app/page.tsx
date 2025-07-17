@@ -5,7 +5,7 @@ export default function Home() {
         <div className="text-center">
           <h1 className="text-4xl font-bold mb-4">Hi, I&apos;m Andres Niño</h1>
           <h2 className="text-2xl font-semibold text-blue-600 mb-6">
-            Systems Engineer
+            Software Engineer
           </h2>
           <p className="text-lg max-w-xl mx-auto mb-8">
             Passionate about technology, software development, and solving real-world problems through code.
