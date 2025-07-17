@@ -52,8 +52,6 @@ export default function Home() {
               />
             </div>
 
-            ## hola oscar, si encuentras esto te invito una empanada
-
             <div className="mb-4">
               <label htmlFor="message" className="block text-sm font-medium text-gray-700 mb-1">
                 Message
