@@ -22,7 +22,7 @@ export default function Home() {
         </div>
 
         <section id="contact" className="mt-20">
-          <h3 className="text-2xl font-semibold text-center  dark:bg-black mb-6">Get in Touch</h3>
+          <h3 className="text-2xl font-semibold text-center  dark:bg-gray-900 dark:text-white mb-6">Get in Touch</h3>
           <form
             onSubmit={(e) => {
             e.preventDefault();
