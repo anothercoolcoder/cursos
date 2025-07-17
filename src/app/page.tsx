@@ -22,7 +22,10 @@ export default function Home() {
         <section id="contact" className="mt-20">
           <h3 className="text-2xl font-semibold text-center mb-6">Get in Touch</h3>
           <form
-            action="#"
+            onSubmit={(e) => {
+            e.preventDefault();
+            console.log("Formulario enviado");
+          }}
             method="POST"
             className="max-w-xl mx-auto bg-white p-6 rounded-lg shadow"
           >
