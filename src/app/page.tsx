@@ -81,7 +81,7 @@ export default function Home() {
       </main>
 
       <footer className="bg-gray-800 dark:bg-gray-950 text-white py-4" id="contact">
-        <div className="text-center">
+        <div className="text-left">
           <p>© {new Date().getFullYear()} Andres Niño</p>
           <p>Email: andresalejandroninoaraujo@gmail.com</p>
         </div>
