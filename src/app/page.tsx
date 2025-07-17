@@ -3,13 +3,13 @@ export default function Home() {
     <div className="min-h-screen bg-gray-100 text-gray-800 flex flex-col">
       <main className="flex-grow container mx-auto px-4 py-16">
         <div className="text-center">
-          <h1 className="text-4xl font-bold mb-4">Hi, I'm Andres Niño</h1>
+          <h1 className="text-4xl font-bold mb-4">Hi, I&apos;m Andres Niño</h1>
           <h2 className="text-2xl font-semibold text-blue-600 mb-6">
             Systems Engineer
           </h2>
           <p className="text-lg max-w-xl mx-auto mb-8">
             Passionate about technology, software development, and solving real-world problems through code.
-            I'm currently studying Systems Engineering and Computer Science and I love building intelligent solutions.
+            I&apos;m currently studying Systems Engineering and Computer Science and I love building intelligent solutions.
           </p>
           <a
             href="#contact"
