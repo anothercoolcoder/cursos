@@ -9,7 +9,7 @@ export default function Home() {
           </h2>
           <p className="text-lg max-w-xl mx-auto mb-8">
             Passionate about technology, software development, and solving real-world problems through code.
-            I&apos;m currently studying Systems Engineering and Computer Science and I love building intelligent solutions.
+            I am currently studying software engineering at the Pedagogical and Technological University of Colombia.
           </p>
           <a
             href="#contact"
@@ -23,7 +23,7 @@ export default function Home() {
       <footer className="bg-gray-800 text-white py-4" id="contact">
         <div className="text-center">
           <p>© {new Date().getFullYear()} Andres Niño</p>
-          <p>Email: andres.nino@example.com</p>
+          <p>Email: andresalejandroninoaraujo@gmail.com</p>
         </div>
       </footer>
     </div>
